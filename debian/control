@@ -1,11 +1,11 @@
-Source: netrunner-settings-profiled
+Source: default-settings-profiled
 Section: admin
 Priority: optional
 Maintainer: Leszek Lesner <leszek@zevenos.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.7.2
 
-Package: netrunner-settings-profiled
+Package: default-settings-profiled
 Architecture: all
 Description: Default shell configuration
-  This package provides the default shell configuration for Netrunner.
+  This package provides the default shell configuration for Maui/Netrunner.
