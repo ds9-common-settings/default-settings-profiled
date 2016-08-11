@@ -1,2 +1,2 @@
 # Overwrite inputrc with our own customizations
-export INPUTRC=/usr/share/netrunner-default-settings/inputrc
+export INPUTRC=/usr/share/default-settings/inputrc
